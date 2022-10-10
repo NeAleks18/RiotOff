@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**RiotOff/RiotOff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m @RiotOff
+- 👀 My hobbies is Motion Design, Graphics Design, Web-Making, Games and more.
+- 🌱 Join my project "RIOTOFF Project."
+- 💞️ Also i have company "MiningPyxel".
+- 📫 GRIOTOFF: riotixofficial@gmail.com
+- 📫 GProduction: riotoffproduction@gmail.com
+- 🤍 Discord: RIOTOFF#3611
+- 🖤 Telegram: https://t.me/riotoffchannel
+- 💙 YouTube: https://www.youtube.com/channel/UCGtE7ehjGCAd-iJKwebq05w
+- 🧡 VK: https://vk.com/riotoff Have fun!❤
