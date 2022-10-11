@@ -1,4 +1,4 @@
-# Hi, I’m [RiotOff]!
+# Hi, i'm [RiotOff]!
 ## On GitHub im showcasing codes, sites and other.
 
 - My hobbies is Motion Design, Graphics Design, Web-Making, Games and more.
