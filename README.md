@@ -3,13 +3,13 @@
 
 - My hobbies is Motion Design, Graphics Design, Web-Making, Games and more.
 
-- Join my project "RIOTOFF Project"
+- My name's Arseniy.
 
-- Also i have project "MiningPyxel"
+- I have projects "RIOTOFF Project" and "MiningPyxel".
 
-- GRIOTOFF: riotixofficial@gmail.com
+- My mail: riotixofficial@gmail.com
 
-- GProduction: riotoffproduction@gmail.com
+- Production mail: riotoffproduction@gmail.com
 
 ###### Yeah, thats very good, but what else do i have?
 
