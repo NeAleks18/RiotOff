@@ -1,5 +1,5 @@
 # Hi, I’m [RiotOff]!
-## On GitHub i showcasing some codes or other.
+## On GitHub i showcasing codes, sites and otherr.
 
 - My hobbies is Motion Design, Graphics Design, Web-Making, Games and more.
 
@@ -11,7 +11,7 @@
 
 - GProduction: riotoffproduction@gmail.com
 
-###### Yeah, its very good, but what i have also?
+###### Yeah, thats very good, but what else do i have?
 
 <!-- dark -->
 
