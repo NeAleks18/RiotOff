@@ -1,5 +1,5 @@
 # Hi, i'm [RiotOff]!
-## On GitHub im showcasing codes, sites and other💦
+## On GitHub im showcasing codes, sites and other.
 
 ![](https://komarev.com/ghpvc/?username=RIOTOFF)
 
