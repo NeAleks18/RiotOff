@@ -9,9 +9,9 @@
 
 - I have projects "[RIOTOFF Project](https://riotoff.ml)" and "[MiningPyxel](https://miningpyxel.ga/)".
 
-- [My email](riotixofficial@gmail.com)
+- My email: riotixofficial@gmail.com
 
-- [Production email](riotoffproduction@gmail.com)
+- Production email: riotoffproduction@gmail.com
 
 ### Laungages of Programming:
 
