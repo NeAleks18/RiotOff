@@ -13,6 +13,13 @@
 
 - Production mail: riotoffproduction@gmail.com
 
+<details>
+  <summary>Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIOTOFF&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RIOTOFF&show_icons=true" />
+</details>
+
 ###### Are you suprised? Then join us!
 
 <!-- dark -->
