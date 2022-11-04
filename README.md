@@ -13,7 +13,7 @@
 
 - Production mail: riotoffproduction@gmail.com
 
-###### Are you suprised? Then join us!
+###### Are you suprised?
 
 <!-- dark -->
 
