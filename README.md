@@ -1,16 +1,12 @@
 # Hi, i'm [RiotOff]!
-## On GitHub im showcasing codes, sites and other.
 
 ![](https://komarev.com/ghpvc/?username=RIOTOFF)
 
+## On GitHub im showcasing codes, sites and other.
 - My name's Arseniy.
-
 - My hobbies is Motion Design, Graphics Design, Web-Making, Games and more.
-
 - I have projects "[RIOTOFF Project](https://riotoff.ml)" and "[MiningPyxel](https://miningpyxel.ga/)".
-
 - My email: riotixofficial@gmail.com
-
 - Production email: riotoffproduction@gmail.com
 
 ### Laungages of Programming:
@@ -23,10 +19,17 @@
 <br />
 <br />
 
+<!-- stats start -->
 <details>
   <summary>Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIOTOFF&langs_count=8&layout=compact" />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RIOTOFF&show_icons=true" />
 </details>
+<!-- stats end -->
 
-[RiotOff]: https://riotoff.ml
+<!-- links start -->
+[Web-Site]: https://riotoff.ml
+[Bio-Link]: https://riotoff.bio.link
+[VK]: https://vk.com/riotoff
+[Discord Server]: https://dsc.gg/riotoff
+<!-- links end -->
