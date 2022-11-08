@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
-   name: Update this repo's README with latest youtube videos
+   name: Update this repo's README with ### 🎥 NEW YouTube Videos:
    runs on: ubuntu-latest
    steps:
      - uses:  actions/checkout@v2
