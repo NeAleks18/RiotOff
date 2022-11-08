@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RIOTOFF)
 
-## 👨‍💻 Some Information about Me:
+## 👨‍💻 Some Info:
 - 🍕 My name's Arseniy.
 - 🍩 My hobbies is Motion Design, Graphics Design, Web-Making, Games and more.
 - 🍪 I have projects "[RIOTOFF Project](https://riotoff.ml)" and "[MiningPyxel](https://miningpyxel.ga/)".
