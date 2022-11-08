@@ -2,7 +2,7 @@
 
 # 💫 Hi, i'm [RiotOff](https://www.youtube.com/@RiotOffx)!
 
-![](https://komarev.com/ghpvc/?username=RIOTOFF)
+![](https://komarev.com/ghpvc/?username=RIOTOFF&style=for-the-badge&color=000000)
 
 ## 👨‍💻 Some Info:
 - 🍕 My name's Arseniy.
