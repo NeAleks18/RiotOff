@@ -1,4 +1,4 @@
-name: ### 🎥 NEW YouTube Videos:
+name: Latest Youtube Videos
 on:
   schedule:
     # Runs every day
