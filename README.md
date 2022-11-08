@@ -14,15 +14,15 @@
 
 ### 📺 Languages and Programs:
 
-[![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)](https://ru.wikipedia.org/wiki/JavaScript)
-[![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://ru.wikipedia.org/wiki/HTML)
-[![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=00B6FF)](https://ru.wikipedia.org/wiki/Visual_Studio_Code)
-[![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=008CFF)](https://ru.wikipedia.org/wiki/CSS)
-[![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-090909?style=for-the-badge&logo=SublimeText)](https://ru.wikipedia.org/wiki/Sublime_Text)
+[![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
+[![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://wikipedia.org/wiki/HTML)
+[![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=00B6FF)](https://wikipedia.org/wiki/Visual_Studio_Code)
+[![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=008CFF)](https://wikipedia.org/wiki/CSS)
+[![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-090909?style=for-the-badge&logo=SublimeText)](https://wikipedia.org/wiki/Sublime_Text)
 
-<!-- SOCIALS:START -->
 ### 🍫 Socials:
 
+<!-- SOCIALS:START -->
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/riotoffchannel)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://dsc.gg/riotoff)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=E50000)](https://youtube.com/@RiotOffX)
@@ -31,6 +31,12 @@
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=0050FF)](https://steamcommunity.com/profiles/76561199382745603/)
 [![GameJolt](https://img.shields.io/badge/-Gamejolt-090909?style=for-the-badge&logo=Gamejolt&logoColor=A5FF00)](https://gamejolt.com/@RiotOff)
 <!-- SOCIALS:END -->
+
+### 🔨 Browsers im using/used:
+<!-- BROWSERS:START -->
+[![Chrome](https://img.shields.io/badge/-Chrome-090909?style=for-the-badge&logo=googlechrome&logoColor=FFC700)](https://wikipedia.org/wiki/Google_Chrome)
+[![Opera GX](https://img.shields.io/badge/-Opera%20GX-090909?style=for-the-badge&logo=opera&logoColor=FF0000)](https://wikipedia.org/wiki/OperaGX)
+<!-- BROWSERS:END -->
 
 ### 🎥 NEW YouTube Videos:
 <!-- YOUTUBE:START -->
