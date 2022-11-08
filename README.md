@@ -32,6 +32,11 @@
 
 ### 🎥 NEW YouTube Videos:
 <!-- YOUTUBE:START -->
+- [ПОСЛАНИЕ БОГУ ?](https://www.youtube.com/watch?v=Z3_pNs1MbXM)
+- [МЕГА ГАЙД &lpar;или туториал&rpar; НА АФТЕР ЭФФЕКТС !](https://www.youtube.com/watch?v=8wU36lE8eV4)
+- [OOH SHI... | Edit](https://www.youtube.com/watch?v=5QEIIyIQsNw)
+- [СЛОВО РОМ, И СЛОВО СМЕРТЬ | Edit](https://www.youtube.com/watch?v=oumNslrfOSo)
+- [MILLY ROCK | Standoff 2](https://www.youtube.com/watch?v=GBDGUKhaBRk)
 <!-- YOUTUBE:END -->
 
 <!-- STATS:START -->
