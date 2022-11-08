@@ -30,6 +30,11 @@
 [![GameJolt](https://img.shields.io/badge/-Gamejolt-090909?style=for-the-badge&logo=Gamejolt&logoColor=A5FF00)](https://gamejolt.com/@RiotOff)
 <!-- SOCIALS:END -->
 
+### 🎥 NEW YouTube Videos:
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
 <!-- STATS:START -->
 <details>
   <summary>🎮 Statistics:</summary>
