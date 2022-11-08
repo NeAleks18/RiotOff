@@ -12,12 +12,13 @@
 - 🥪 My email: riotixofficial@gmail.com
 - 🌭 Production email: riotoffproduction@gmail.com
 
-### 📺 Languages of Programming:
+### 📺 Languages and Programs:
 
-![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=00B6FF)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=008CFF)
+[![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)](https://ru.wikipedia.org/wiki/JavaScript)
+[![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://ru.wikipedia.org/wiki/HTML)
+[![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=00B6FF)](https://ru.wikipedia.org/wiki/Visual_Studio_Code)
+[![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=008CFF)](https://ru.wikipedia.org/wiki/CSS)
+[![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-090909?style=for-the-badge&logo=SublimeText)](https://ru.wikipedia.org/wiki/Sublime_Text)
 
 <!-- SOCIALS:START -->
 ### 🍫 Socials:
